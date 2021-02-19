@@ -1,4 +1,4 @@
-# Brawley X Bot Studios
+# Jet Brawley X Bot Studios
 
 
 - [Invite Brawley](https://discord.com/oauth2/authorize?client_id=792311725181239307&scope=bot&permissions=8) 
@@ -7,7 +7,7 @@
 
 - [DiscordBotList](https://discordbotlist.com/bots/jet-brawley)
 
-- [Website](https://brawlie.is-a.dev)
+- [Website](https://brawley.is-a.dev)
 
 ### What Is Brawley ?
 
@@ -37,5 +37,5 @@ Simple Commands
    - Get Stock Quote -stock <stock-quote> Example : -stock AAPL
    - Help Command -help
   
-  - and many more....
+  - [and many more....](https://github.com/brawlie/bot)
 
