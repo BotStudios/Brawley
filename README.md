@@ -20,7 +20,11 @@
 
 - Get Stock Quotes, Financial Datas And More.
 
-Play Musics From YouTube
+- Play Audio From YouTube
+
+- Tracker ( Server Vote Tracker )
+
+- Moderation Commands 
 
 Moderation
 
